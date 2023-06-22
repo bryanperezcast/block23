@@ -38,5 +38,25 @@
 }
 
 .read-the-docs {
-  color: #888;
+  color: lightgrey;
+}
+.app{
+  border-radius: 5%;
+  border: solid black;
+  background-color: #adadad;
+}
+body{
+  background-color: #858585;
+}
+.app > p {
+  font-family: monospace;
+  font-size: 24px;
+}
+p:hover{
+  color: black;
+}
+.pupInfo{
+  border-radius: 5%;
+  border: solid black;
+  background-color: #3A3B3C;
 }
